@@ -1,0 +1,5 @@
+{
+  "name": "BIO",
+  "description": "A web application to display a team directory with contact information and social media links. It features a searchable contact list and a section for official group and social channels.",
+  "requestFramePermissions": []
+}
